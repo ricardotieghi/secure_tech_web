@@ -1,13 +1,13 @@
 {
-    "name": "priyansh/itcompany",
+    "name": "ricardotieghi/secure_tech_web",
     "autoload": {
         "psr-4": {
-            "Priyansh\\Itcompany\\": "src/"
+            "SeCURE\\Technologies\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "It Company"
+            "name": "SeCURE Technologies"
         }
     ],
     "require": {
